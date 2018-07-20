@@ -16,7 +16,7 @@ class LoginViewController: UIViewController {
         super.viewDidLoad()//Apesar de sobrescrevermos o método ViewDidLoad, ainda queremos que ele faça o que sua classe "Pai" faz.
         
         print("viewDidLoad - ViewController carregou")
-
+        
     }
     
     override func viewWillAppear(_ animated: Bool) {
